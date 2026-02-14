@@ -1,0 +1,4 @@
+"Maneuver Number","Segment","Start Time (UTCG)","Stop Time (UTCG)","Duration (sec)","Est./Act. Finite Burn Duration (sec)","Delta V (m/sec)","Fuel Used (kg)"
+1,"DV1",13 Feb 2026 11:37:22.621,13 Feb 2026 11:37:22.621,0.000,6518.952,1722.500000,1107.914
+2,"Dv2",13 Feb 2026 14:03:31.497,13 Feb 2026 14:03:31.497,0.000,4279.169,1329.700000,727.256
+
